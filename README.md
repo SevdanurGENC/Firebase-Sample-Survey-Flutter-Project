@@ -1,5 +1,5 @@
 # Firebase-Sample-Survey-Flutter-Project
-This repo contains an application that shows survey by using Cloud Firebase.
+This repo contains an application that shows survey about programming languages by using Cloud Firebase.
 
 ![image](https://user-images.githubusercontent.com/5441882/109075186-db255500-7709-11eb-9b86-1498d4b4be13.png)
 
